@@ -13,4 +13,4 @@ We also need to construct a Q matrix，its initial state is as follows
 After many cycles of training，it converges to the following state  
 ![image](https://github.com/TangLaoDA/Basic_Q_Learning/blob/master/image/6.png)  
 When you reach this state, you can go to room 5 according to a route that Q matrix looks for，just fllow the max Q value.    
-I implemented two versions，if you want to exchange ideas with me，you can add me to WeChat:zggcdbd.  
+I implemented two versions，if you want to exchange ideas with me，you can add me to WeChat:zggcdbs.  
